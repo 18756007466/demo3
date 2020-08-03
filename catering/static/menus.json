@@ -1,0 +1,8 @@
+[{
+    "menu": "商店1",
+    "rout": "order"
+
+}, {
+    "menu": "商店2",
+    "rout": "stock"
+}]
