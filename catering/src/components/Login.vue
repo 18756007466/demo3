@@ -12,6 +12,9 @@
         </div>
         <div>
             wgq
+            <div>
+                wgq_1.0.1
+            </div>
         </div>
     </div>
 </template>
