@@ -10,6 +10,9 @@
             <input type="password" placeholder="パスワード" v-model="data_from.password"> 
             <button @click="submit">ログインします</button>
         </div>
+        <div>
+            wgq
+        </div>
     </div>
 </template>
 
